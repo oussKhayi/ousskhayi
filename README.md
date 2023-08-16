@@ -33,27 +33,25 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
 
  <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
- 
 <a href="https://nodejs.org/en" rel="nofollow">
 <img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-02.svg" alt="node" width="40" height="40" style="max-width: 100%;">
 </a>
-
-    <a href="https://www.mysql.com/" rel="nofollow">
+<a href="https://www.mysql.com/" rel="nofollow">
 <img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
 </a>
-      <a href="https://redux.js.org/" rel="nofollow">
+<a href="https://redux.js.org/" rel="nofollow">
 <img src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
 </a>
-        <a href="https://www.npmjs.com/" rel="nofollow">
+<a href="https://www.npmjs.com/" rel="nofollow">
 <img src="https://brandeps.com/logo-download/N/Npm-logo-vector-01.svg" alt="npm" width="40" height="40" style="max-width: 100%;">
 </a>
-          <a href="https://www.javascripttutorial.net/es6/" rel="nofollow">
+<a href="https://www.javascripttutorial.net/es6/" rel="nofollow">
 <img src="https://brandeps.com/logo-download/E/ES6-logo-vector-01.svg" alt="es6" width="40" height="40" style="max-width: 100%;">
 </a>
-            <a href="https://laravel.com/" rel="nofollow">
+<a href="https://laravel.com/" rel="nofollow">
 <img src="https://brandeps.com/icon-download/L/Laravel-icon-vector-04.svg" alt="laravel" width="40" height="40" style="max-width: 100%;">
 </a>
-            <a href="https://git-scm.com/" rel="nofollow">
+<a href="https://git-scm.com/" rel="nofollow">
 <img src="https://brandeps.com/icon-download/G/Git-icon-vector-06.svg" alt="git" width="40" height="40" style="max-width: 100%;">
 </a>
 </p>
