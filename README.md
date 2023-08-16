@@ -7,7 +7,7 @@
 🙋‍♂ About Me :</h2>
 🌱 I’m currently learning MERN Stack technologies <br/>
 💬 Ask me about React Js or anything.. <br/>
-📫 How to reach me: <a href="mailto:khay.ouss@gmail.com">khay.ouss@gmail.com</a> <br/>
+📫 How to reach me: <a href="mailto:khay.ouss@gmail.com">khayi.ouss@gmail.com</a> <br/>
 <br/>
 <h2 dir="auto">  
 📱 Connect with me: 
@@ -33,7 +33,7 @@
 <a href="https://www.w3.org/html/" rel="nofollow">  </a>   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
  <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://nodejs.org/en" rel="nofollow"> 
-            <i class="devicon-nodejs-plain-wordmark" width="40" height="40"></i>
-          </a>
+<a href="https://nodejs.org/en" rel="nofollow">
+<img src="https://nodejs.org/static/images/logo.svg" alt="node" width="40" height="40" style="max-width: 100%;">
+</a>
 </p>
