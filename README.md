@@ -45,4 +45,7 @@
       <a href="https://redux.js.org/" rel="nofollow">
 <img src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
 </a>
+        <a href="https://www.npmjs.com/" rel="nofollow">
+<img src="https://brandeps.com/logo-download/N/Npm-logo-vector-01.svg" alt="npm" width="40" height="40" style="max-width: 100%;">
+</a>
 </p>
