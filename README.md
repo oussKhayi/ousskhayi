@@ -38,13 +38,6 @@
 <img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-02.svg" alt="node" width="40" height="40" style="max-width: 100%;">
 </a>
 
- <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
-  
-<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> 
-
-  <a href="https://www.python.org/" rel="nofollow">
-<img src="https://abrudz.github.io/logos/Python.svg" alt="python" width="40" height="40" style="max-width: 100%;">
-</a>
     <a href="https://www.mysql.com/" rel="nofollow">
 <img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
 </a>
