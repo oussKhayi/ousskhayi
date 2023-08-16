@@ -47,4 +47,13 @@
         <a href="https://www.npmjs.com/" rel="nofollow">
 <img src="https://brandeps.com/logo-download/N/Npm-logo-vector-01.svg" alt="npm" width="40" height="40" style="max-width: 100%;">
 </a>
+          <a href="https://www.javascripttutorial.net/es6/" rel="nofollow">
+<img src="https://brandeps.com/logo-download/E/ES6-logo-vector-01.svg" alt="es6" width="40" height="40" style="max-width: 100%;">
+</a>
+            <a href="https://laravel.com/" rel="nofollow">
+<img src="https://brandeps.com/icon-download/L/Laravel-icon-vector-04.svg" alt="laravel" width="40" height="40" style="max-width: 100%;">
+</a>
+            <a href="https://git-scm.com/" rel="nofollow">
+<img src="https://brandeps.com/icon-download/G/Git-icon-vector-06.svg" alt="git" width="40" height="40" style="max-width: 100%;">
+</a>
 </p>
