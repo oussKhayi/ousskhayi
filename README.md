@@ -7,7 +7,7 @@
 🙋‍♂ About Me :</h2>
 🌱 I’m currently learning MERN Stack technologies <br/>
 💬 Ask me about React Js or anything.. <br/>
-📫 How to reach me: <a href="mailto:khay.ouss@gmail.com">khayi.ouss@gmail.com</a> <br/>
+📫 How to reach me: <a href="mailto:khayi.ouss@gmail.com">khayi.ouss@gmail.com</a> <br/>
 <br/>
 <h2 dir="auto">  
 📱 Connect with me: 
