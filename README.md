@@ -35,6 +35,9 @@
 <a href="https://nodejs.org/en" rel="nofollow">
 <img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-02.svg" alt="node" width="40" height="40" style="max-width: 100%;">
 </a>
+<a href="https://expressjs.com/" rel="nofollow">
+<img src="https://geekflare.com/wp-content/uploads/2023/01/expressjs-680x220.png" alt="express" width="40" height="40" style="max-width: 100%;">
+</a>
 <a href="https://www.mysql.com/" rel="nofollow">
 <img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
 </a>
