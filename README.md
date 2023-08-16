@@ -1,6 +1,6 @@
 <h1 align="center">Greatings🎉, I'm Oussama KHAYI </h1>
 <div dir="auto">
-  <a rel="noopener noreferrer nofollow" href="#"><img align="center" alt="coding mario" width="100%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474qjq8p6g9rywm3efgq7cwktvjfk7a71ixx2hpsgy&ep=v1_gifs_related&rid=giphy.gif&ct=g" data-canonical-src="" style="max-width: 100%;"></a>
+  <a rel="noopener noreferrer nofollow" href="#"><img align="center" alt="coding mario" width="80%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474qjq8p6g9rywm3efgq7cwktvjfk7a71ixx2hpsgy&ep=v1_gifs_related&rid=giphy.gif&ct=g" data-canonical-src="" style="max-width: 80%;"></a>
 </div> </br>
 <h2 dir="auto">
 🙋‍♂ About Me :</h2>
