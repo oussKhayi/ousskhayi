@@ -4,14 +4,14 @@
 **oussKhayi/ousskhayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 --> 
-<h2>
+<h2 dir="auto">
 🙋‍♂ About Me :</h2>
   <br/>
 🌱 I’m currently learning MERN Stack technologies <br/>
 💬 Ask me about React Js or anything.. <br/>
 📫 How to reach me: khay.ouss@gmail.com <br/>
 <br/>
-<h2>  
+<h2 dir="auto">  
 📱 Connect with me: 
 </h2>
 <br/>
