@@ -30,7 +30,7 @@
 <p align="left" dir="auto"> 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://brandeps.com/logo-download/M/MongoDB-logo-vector-01.svg" alt="express" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://www.pngkit.com/png/detail/383-3838914_mongo-db-design-mongodb-logo-mongodb.png" alt="express" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://expressjs.com/" rel="nofollow">
 <img src="https://expressjs.com/images/express-facebook-share.png" alt="express" width="45" height="30" style="max-width: 100%;">
 </a>
