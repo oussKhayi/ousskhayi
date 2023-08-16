@@ -1,8 +1,8 @@
 <div dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/89563768acc1ee18b1e95a0ad935dcb29a0a9476d21d0d515631c9936b13474a/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f31653539343332653566653264373934326466333966646430323233643239342f396563356139616535626139663764622d61652f733132383078313932302f386634356336646633616463396631613734623538613237356235383739383262356465386162632e67696676"><img align="center" alt="coding mario" width="100%" src="https://camo.githubusercontent.com/89563768acc1ee18b1e95a0ad935dcb29a0a9476d21d0d515631c9936b13474a/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f31653539343332653566653264373934326466333966646430323233643239342f396563356139616535626139663764622d61652f733132383078313932302f386634356336646633616463396631613734623538613237356235383739383262356465386162632e67696676" data-canonical-src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv" style="max-width: 100%;"></a>
+  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+  <a rel="noopener noreferrer nofollow" href="#"><img align="center" alt="coding mario" width="100%" src="https://camo.githubusercontent.com/89563768acc1ee18b1e95a0ad935dcb29a0a9476d21d0d515631c9936b13474a/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f31653539343332653566653264373934326466333966646430323233643239342f396563356139616535626139663764622d61652f733132383078313932302f386634356336646633616463396631613734623538613237356235383739383262356465386162632e67696676" data-canonical-src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv" style="max-width: 100%;"></a>
 </div>
-<h1 align="center">Hi there 👋</h1>
-<h1 align="center">I'M KHAYI OUSSAMA</h1>
+<h1 align="center">Greatings, I'm Oussama KHAYI</h1>
 <h2 dir="auto">
 🙋‍♂ About Me :</h2>
 🌱 I’m currently learning MERN Stack technologies <br/>
