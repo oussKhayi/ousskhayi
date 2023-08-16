@@ -29,14 +29,13 @@
   </a>🚀 Languages and Tools:</h2>
 <p align="left" dir="auto"> 
 
-<a href="https://www.w3.org/html/" rel="nofollow"> lol </a>   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
  <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://nodejs.org/en" rel="nofollow">
 <img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-02.svg" alt="node" width="40" height="40" style="max-width: 100%;">
 </a>
 <a href="https://expressjs.com/" rel="nofollow">
-<img src="https://geekflare.com/wp-content/uploads/2023/01/expressjs-680x220.png" alt="express" width="40" height="40" style="max-width: 100%;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcLhBKzTwxG3BfLcUTzJozw0NnDjS1Bppyw" alt="express" width="40%" height="40" style="max-width: 100%;">
 </a>
 <a href="https://www.mysql.com/" rel="nofollow">
 <img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
