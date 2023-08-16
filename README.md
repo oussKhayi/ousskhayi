@@ -9,7 +9,7 @@
 📫 How to reach me: <a  href="mailto:khayi.ouss@gmail.com">khayi.ouss@gmail.com</a> <br/>
 <br/>
 <h2 dir="auto">  
-📱 Connect with me: 
+📱 Connect with me : 
 </h2>
 <p align="left" dir="auto">
 <a  href="https://instagram.com/ousskhayi" rel="nofollow"  target="_blank">
