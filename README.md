@@ -38,7 +38,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcLhBKzTwxG3BfLcUTzJozw0NnDjS1Bppyw" alt="express" width="40" height="30" style="max-width: 100%;">
 </a>
 <a href="https://www.mysql.com/" rel="nofollow">
-<img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
+<img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="mysql" width="40" height="auto" style="max-width: 100%;">
 </a>
 <a href="https://redux.js.org/" rel="nofollow">
 <img src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
