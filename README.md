@@ -42,7 +42,7 @@
 <img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
 </a>
 <a  href="https://redux.js.org/" rel="nofollow">
-<img src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
+<img src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="redux" width="40" height="40" style="max-width: 100%;">
 </a>
 <a  href="https://www.npmjs.com/" rel="nofollow">
 <img src="https://brandeps.com/logo-download/N/Npm-logo-vector-01.svg" alt="npm" width="40" height="40" style="max-width: 100%;">
@@ -56,7 +56,7 @@
 <a  href="https://git-scm.com/" rel="nofollow">
 <img src="https://brandeps.com/icon-download/G/Git-icon-vector-06.svg" alt="git" width="40" height="40" style="max-width: 100%;">
 </a>
-<a  href="https://git-scm.com/" rel="nofollow">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--SVYYuVPf--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yr6exr2envrhs71dzmii.png" alt="git" width="auto" height="40" style="max-width: 100%;">
+<a  href="https://code.visualstudio.com/" rel="nofollow">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--SVYYuVPf--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yr6exr2envrhs71dzmii.png" alt="vscode" width="auto" height="40" style="max-width: 100%;">
 </a>
 </p>
