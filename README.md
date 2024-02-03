@@ -29,7 +29,7 @@
   </a>🚀 Languages and Tools:</h2>
 <p align="left" dir="auto"> 
 <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
-  <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://abrudz.github.io/logos/TypeScript.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
+  <a  href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.typescriptlang.org/)" rel="nofollow"> <img src="https://abrudz.github.io/logos/TypeScript.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
 <a  href="https://www.mongodb.com/" rel="nofollow"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="express" width="auto" height="40" style="max-width: 100%;"> </a>
 <a  href="https://expressjs.com/" rel="nofollow">
 <img src="https://expressjs.com/images/express-facebook-share.png" alt="express" width="auto" height="40" style="max-width: 100%;">
