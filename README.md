@@ -27,4 +27,4 @@
   </svg>
   
   </a>🚀 Languages and Tools:</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,react,laravel,next,node,express,html,css,tailwind,bootstrap,postman,swagger,vscode,cmder,mongodb,mysql,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,laravel,next,nodejs,express,html,css,tailwind,bootstrap,postman,python,vscode,terminal,mongodb,mysql,aws)](https://skillicons.dev)
