@@ -27,36 +27,4 @@
   </svg>
   
   </a>🚀 Languages and Tools:</h2>
-<p align="left" dir="auto"> 
-<a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
-  <a  href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.typescriptlang.org/)" rel="nofollow"> <img src="https://abrudz.github.io/logos/TypeScript.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
-<a  href="https://www.mongodb.com/" rel="nofollow"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="express" width="auto" height="40" style="max-width: 100%;"> </a>
-<a  href="https://expressjs.com/" rel="nofollow">
-<img src="https://expressjs.com/images/express-facebook-share.png" alt="express" width="auto" height="40" style="max-width: 100%;">
-</a>
- <a  href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
-<a  href="https://nodejs.org/en" rel="nofollow">
-<img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-02.svg" alt="node" width="40" height="40" style="max-width: 100%;">
-</a>
-<a  href="https://www.mysql.com/" rel="nofollow">
-<img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
-</a>
-<a  href="https://redux.js.org/" rel="nofollow">
-<img src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="redux" width="40" height="40" style="max-width: 100%;">
-</a>
-<a  href="https://www.npmjs.com/" rel="nofollow">
-<img src="https://brandeps.com/logo-download/N/Npm-logo-vector-01.svg" alt="npm" width="40" height="40" style="max-width: 100%;">
-</a>
-<a  href="https://www.javascripttutorial.net/es6/" rel="nofollow">
-<img src="https://brandeps.com/logo-download/E/ES6-logo-vector-01.svg" alt="es6" width="40" height="40" style="max-width: 100%;">
-</a>
-<a  href="https://laravel.com/" rel="nofollow">
-<img src="https://brandeps.com/icon-download/L/Laravel-icon-vector-04.svg" alt="laravel" width="40" height="40" style="max-width: 100%;">
-</a>
-<a  href="https://git-scm.com/" rel="nofollow">
-<img src="https://brandeps.com/icon-download/G/Git-icon-vector-06.svg" alt="git" width="40" height="40" style="max-width: 100%;">
-</a>
-<a  href="https://code.visualstudio.com/" rel="nofollow">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--SVYYuVPf--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yr6exr2envrhs71dzmii.png" alt="vscode" width="auto" height="40" style="max-width: 100%;">
-</a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,react,laravel,next,node,express,html,css,tailwind,bootstrap,postman,swagger,vscode,cmder,mongodb,mysql,aws)](https://skillicons.dev)
