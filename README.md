@@ -4,8 +4,8 @@
 </div> </br>
 <h2 dir="auto">
 🙋‍♂ About Me :</h2>
-🌱 I’m currently learning MERN Stack technologies <br/>
-💬 Ask me about ReactJS or anything.. <br/>
+🌱 I’m currently learning React Native <br/>
+💬 Ask me about React.js, Next.js, Laravel, Node.js and Next.js <br/>
 📫 How to reach me: <a  href="mailto:khayi.ouss@gmail.com">khayi.ouss@gmail.com</a> <br/>
 <br/>
 <h2 dir="auto">  
