@@ -28,3 +28,4 @@
   
   </a>🚀 Languages and Tools:</h2>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vuejs,tailwind,bootstrap,vite,nodejs,npm,express,python,laravel,mongodb,mysql,aws,docker,git,github,vscode,vercel,postman,discord)](https://skillicons.dev)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousskhayi&theme=react )
