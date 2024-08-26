@@ -28,6 +28,13 @@
   
   </a>🚀 Languages and Tools:</h2>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vuejs,tailwind,bootstrap,vite,nodejs,npm,express,python,laravel,mongodb,mysql,aws,docker,git,github,vscode,vercel,postman,discord)](https://skillicons.dev)
-<br/>
-<br/>
+<br><br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ousskhayi&theme=react&hide_border=true&border_radius=4&card_width=684)](https://git.io/streak-stats)
+<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousskhayi&theme=react )
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ousskhayi&theme=react)
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ousskhayi&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ousskhayi&theme=react&utcOffset=8)
+<br>
+
