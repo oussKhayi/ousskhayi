@@ -6,15 +6,18 @@
   </a>
 </div>
 
-<h2 align="center">🙋‍♂ About Me :</h2>
-<p align="center">
+<h2 dir="auto">
+🙋‍♂ About Me :</h2>
+<p>
   🌱 I’m currently learning React Native <br>
   💬 Ask me about React.js, Next.js, Laravel, Node.js and Next.js <br>
   📫 How to reach me: <a href="mailto:khayi.ouss@gmail.com">khayi.ouss@gmail.com</a>
 </p>
 
-<h2 align="center">📱 Connect with me :</h2>
-<p align="center">
+<h2 dir="auto">  
+📱 Connect with me :
+</h2>
+<p>
   <a href="https://instagram.com/ousskhayi" rel="nofollow" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40">
   </a>
@@ -23,12 +26,16 @@
   </a>
 </p>
 
-<h2 align="center">🚀 Languages and Tools:</h2>
-<p align="center">
+<h2 dir="auto">
+  🚀 Languages and Tools:
+</h2>
+<p>
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vuejs,tailwind,bootstrap,vite,nodejs,npm,express,python,laravel,mongodb,mysql,aws,docker,git,github,vscode,vercel,postman,discord)](https://skillicons.dev)
 </p>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 dir="auto">
+  GitHub Stats
+</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ousskhayi&theme=algolia&hide_border=true&border_radius=4&card_width=684" alt="GitHub Streak">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ousskhayi&theme=algolia" alt="Profile Details">
