@@ -30,14 +30,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vuejs,tailwind,bootstrap,vite,nodejs,npm,express,python,laravel,mongodb,mysql,aws,docker,git,github,vscode,vercel,postman,discord)](https://skillicons.dev)
 ## GitHub Stats
 <br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ousskhayi&theme=algolia&hide_border=true&border_radius=4&card_width=684)]
-Markdown Usage
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ousskhayi&theme=panda)
-Markdown Usage
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ousskhayi&theme=panda)
-Markdown Usage
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousskhayi&theme=panda)
-Markdown Usage
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ousskhayi&theme=panda)
-Markdown Usage
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ousskhayi&theme=panda&utcOffset=8)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ousskhayi&theme=algolia&hide_border=true&border_radius=4&card_width=684)] ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ousskhayi&theme=shades_of_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ousskhayi&theme=shades_of_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousskhayi&theme=shades_of_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ousskhayi&theme=shades_of_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ousskhayi&theme=shades_of_purple&utcOffset=8)
