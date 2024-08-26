@@ -31,4 +31,6 @@
 ## GitHub Stats
 <br><br>
 <div dir="auto" align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ousskhayi&theme=algolia&hide_border=true&border_radius=4&card_width=684) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ousskhayi&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ousskhayi&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousskhayi&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ousskhayi&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ousskhayi&theme=algolia&utcOffset=8)</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ousskhayi&theme=algolia&hide_border=true&border_radius=4&card_width=684) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ousskhayi&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ousskhayi&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousskhayi&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ousskhayi&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ousskhayi&theme=algolia&utcOffset=8)
+
+</div>
