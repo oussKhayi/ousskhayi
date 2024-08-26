@@ -28,13 +28,24 @@
   
   </a>🚀 Languages and Tools:</h2>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vuejs,tailwind,bootstrap,vite,nodejs,npm,express,python,laravel,mongodb,mysql,aws,docker,git,github,vscode,vercel,postman,discord)](https://skillicons.dev)
-<br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ousskhayi&theme=react&hide_border=true&border_radius=4&card_width=684)](https://git.io/streak-stats)
-<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousskhayi&theme=react )
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ousskhayi&theme=react)
-<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ousskhayi&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ousskhayi&theme=react&utcOffset=8)
-<br>
+## GitHub Stats
 
+### Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ousskhayi&theme=react&hide_border=true&border_radius=4&card_width=1000)](https://git.io/streak-stats)
+
+### Most Commit Languages
+
+![Most Commit Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousskhayi&theme=react)
+
+### Repos Per Language
+
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ousskhayi&theme=react)
+
+### Stats
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ousskhayi&theme=react)
+
+### Productive Time
+
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ousskhayi&theme=react&utcOffset=8)
