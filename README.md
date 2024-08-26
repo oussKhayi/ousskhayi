@@ -1,5 +1,5 @@
 <h1 align="center">Greetings ✨, I'm KHAYI Oussama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer;BackK-End+Developer;full-stack+web+developer" alt="Typing SVG" />
+<div align="center"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer;BackK-End+Developer;full-stack+web+developer" alt="Typing SVG" /></div>
 <div align="center">
   <a rel="noopener noreferrer nofollow" href="#">
     <img alt="coding mario" width="80%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474qjq8p6g9rywm3efgq7cwktvjfk7a71ixx2hpsgy&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="max-width: 80%;">
