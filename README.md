@@ -31,7 +31,7 @@
 </p>
 
  </a>🚀 Languages and Tools:</h2>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,pinia,nextjs,vuejs,nuxtjs,tailwind,vite,nodejs,npm,express,nestjs,python,laravel,mongodb,mysql,redis,aws,firebase,,docker,git,github,gitlab,ubuntu,nginx,vscode,vercel,postman,php,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,pinia,nextjs,vuejs,nuxtjs,tailwind,vite,nodejs,npm,express,nestjs,python,laravel,mongodb,mysql,redis,aws,firebase,docker,git,github,gitlab,ubuntu,nginx,vscode,vercel,postman,php,discord)](https://skillicons.dev)
 <br>
 <h2 dir="auto">
   GitHub Stats
